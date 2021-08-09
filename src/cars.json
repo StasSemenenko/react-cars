@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "Mazda 3",
+    "company": "Mazda",
+    "year": 2019,
+    "price": 15000,
+    "about": "Lorem Ipsum - это текст-'рыба', часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной 'рыбой' для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов.",
+    "image": "https://nahodim.com.ua/uploads/cars/new/mazda/3/5af404aa94d5da08a723888c/slider_mazda_3_3_sedan_2018.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Mazda 6",
+    "company": "Mazda",
+    "year": 2018,
+    "price": 20000,
+    "about": "Best Car!",
+    "image": "https://images.drive.ru/i/0/5c9dcd85ec05c41119000003.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Mazda 323",
+    "company": "Mazda",
+    "year": 2000,
+    "price": 15000,
+    "about": "Best Car!",
+    "image": "https://a.d-cd.net/405c9ees-960.jpg"
+  },
+  {
+    "id": "4",
+    "name": "BMW i8",
+    "company": "BMW",
+    "year": 2013,
+    "price": 7000,
+    "about": "Cool Car!",
+    "image": "https://mfair.ua/user/cars/53041/53041-sportkar-kupe-bmw-i8-kiev-2014-20.jpg"
+  },
+  {
+    "id": "5",
+    "name": "BMW M5",
+    "company": "BMW",
+    "year": 2015,
+    "price": 7000,
+    "about": "Cool Car!",
+    "image": "https://cdn.motor1.com/images/mgl/90w2l/s1/2022-bmw-m5-cs-front-view.webp"
+  },
+  {
+    "id": "6",
+    "name": "Nissan GTR",
+    "company": "Nissan",
+    "year": 2012,
+    "price": 13000,
+    "about": "Speed Car!",
+    "image": "https://www.a777aa77.ru/nissan/2012-nissan-gt-r.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Tesla Model S",
+    "company": "Tesla",
+    "year": 2020,
+    "price": 60000,
+    "about": "Electro Car!",
+    "image": "https://avtonam.ru/wp-content/uploads/2021/01/tesla-model-s-2021-thumb.jpg"
+  }
+]
